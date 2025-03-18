@@ -1,0 +1,4 @@
+requests    # For HTTP forwarding (optional in later steps)
+cryptography
+Flask==3.0.2
+# For advanced encryption (optional in later steps)
